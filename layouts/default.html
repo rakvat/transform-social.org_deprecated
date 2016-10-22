@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <title>Notizen zur Transformation in anarchistische Gesellschaften</title>
+    <link rel="stylesheet" href="<%= @items['/stylesheets/bootstrap'].path %>" media="screen">
+    <link rel="stylesheet" href="<%= @items['/stylesheets/cyborg_bootstrap'].path %>">
+
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+    <meta name="Title" content="Notizen zur Transformation in anarchistische Gesellschaften">
+    <meta name="Author" content="rakvat">
+    <meta name="Description" content="Notizen zur Transformation in anarchistische Gesellschaften">
+    <meta name="Revisit" content="After 15 days">
+    <meta name="Keywords" content="Transformation, Anarchie, Solidarit&auml;t, Freiheit">
+    <meta name="Robots" content="INDEX,FOLLOW">
+    <meta name="content-language" content="de">
+    <link rel="icon" type="image/icon" href="/favicon.ico">
+  </head>
+  <body text="#FFFFFF" bgcolor="#000000" onLoad="if (self != top) top.location = self.location">
+    <div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="/" class="navbar-brand">Transformation</a>
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+          <ul class="nav navbar-nav">
+            <li>
+              <a href="about">Was ist das?</a>
+            </li>
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="texte">Texte <span class="caret"></span></a>
+              <ul class="dropdown-menu" aria-labelledby="texte">
+                <li><a href="/texte/1.html">ein text</a></li>
+                <li><a href="/texte/2.html">noch ein text</a></li>
+              </ul>
+            </li>
+            <li>
+              <a href="notizen">Bibliothek</a>
+            </li>
+          </ul>
+
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+              <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/de/" target="_blank">
+                <img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc/4.0/80x15.png" />
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-3 col-md-2 col-sm-0">
+        </div>
+        <div class="col-lg-6 col-md-8 col-sm-12">
+          <br>
+          <br>
+          <br>
+          <h4>Notizen zur</h4>
+          <h1>Transformation</h1>
+          <h4>in anarchistische Gesellschaften</h4>
+          <p class="lead">Jet black and electric blue</p>
+          <%= yield %>
+        </div>
+        <div class="col-lg-3 col-md-2 col-sm-0">
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
