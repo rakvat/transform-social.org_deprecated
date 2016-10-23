@@ -1,6 +1,6 @@
 ---
 title: Bibliothek
 ---
-<h4>Bibliothek</h4>
+##Bibliothek
 
 Interessante Texte von anderen
