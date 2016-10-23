@@ -2,8 +2,8 @@
 <html lang="en">
   <head>
     <title>Notizen zur Transformation in anarchistische Gesellschaften</title>
-    <link rel="stylesheet" href="<%= @items['/bootstrap/'].path %>" media="screen">
-    <link rel="stylesheet" href="<%= @items['/cyborg_bootstrap/'].path %>">
+    <link rel="stylesheet" href="<%= @items['/stylesheets/bootstrap/'].path %>" media="screen">
+    <link rel="stylesheet" href="<%= @items['/stylesheets/cyborg_bootstrap/'].path %>">
 
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
     <meta name="Title" content="Notizen zur Transformation in anarchistische Gesellschaften">
@@ -62,15 +62,13 @@
           <br>
           <br>
           <br>
-          <h4>Notizen zur</h4>
-          <h1>Transformation</h1>
-          <h4>in anarchistische Gesellschaften</h4>
-          <p class="lead">Jet black and electric blue</p>
           <%= yield %>
         </div>
         <div class="col-lg-3 col-md-2 col-sm-0">
         </div>
       </div>
     </div>
+    <script src="<%= @items['/javascript/jquery/'].path %>"></script>
+    <script src="<%= @items['/javascript/bootstrap/'].path %>"></script>
   </body>
 </html>
