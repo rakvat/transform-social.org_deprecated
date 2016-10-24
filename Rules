@@ -33,6 +33,7 @@ preprocess do
 
   def collect_biblio_items
     @biblio_items = items.select { |i| i[:type] == "biblio" }
+    @biblio_items.sort_by! { |i| i[:order_id].to_i }
     @config[:biblio] = @biblio_items
   end
 

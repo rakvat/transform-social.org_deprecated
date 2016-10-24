@@ -1,4 +1,4 @@
-#### <%= item[:title] %>
+##### <%= item[:title] %>
 
 <% if item[:author] %>
 von <%= item[:author] %>
