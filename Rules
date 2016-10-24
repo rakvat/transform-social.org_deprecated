@@ -31,25 +31,14 @@ preprocess do
     end
   end
 
-  def set_news
-    @news = items.select { |i| i[:type] == "news" }
-    @news = @news.sort { |x, y| y[:date] <=> x[:date] }
-    @config[:news] = @news
+  def collect_biblio_items
+    @biblio_items = items.select { |i| i[:type] == "biblio" }
+    @config[:biblio] = @biblio_items
   end
 
-  def generate_years
-    @years = @news.map { |n| n[:date].year }.uniq
-    @years.each do |y|
-      @items << Nanoc::Item.new("<%= render 'jahr', year: #{y} %>",
-                                { title: "Jahr #{y}", id: "aktuelles" },
-                                "/aktuelles/#{y}/")
-    end
-    @config[:years] = @years
-  end
+  # debug_print
 
-  #debug_print
-  #set_news
-  #generate_years
+  collect_biblio_items
 end
 
 compile '*' do
