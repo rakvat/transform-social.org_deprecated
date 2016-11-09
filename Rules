@@ -37,9 +37,16 @@ preprocess do
     @config[:biblio] = @biblio_items
   end
 
+  def collect_text_items
+    @text_items = items.select { |i| i[:type] == "text" }
+    @text_items.sort_by! { |i| i[:date] }
+    @config[:text] = @text_items
+  end
+
   # debug_print
 
   collect_biblio_items
+  collect_text_items
 end
 
 compile '*' do
