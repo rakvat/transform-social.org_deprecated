@@ -6,7 +6,7 @@ von <%= item[:author] %>
 
 <div class="row" >
   <div class="col-lg-2 col-md-2 col-xs-12" >
-    <a href="<%= item[:url]%>">&rarr; Link</a>
+    <a href="<%= item[:url] %>" target="__blank">&rarr; Link</a>
   </div>
 
   <div class="col-lg-4 col-md-4 col-xs-12" >
