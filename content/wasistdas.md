@@ -71,3 +71,7 @@ Genauso wie es nicht eine festgelegte Form von anarchistischer Gesellschaft gibt
 Katja Einsfeld,
 Koloniestraße 57,
 13359 Berlin
+
+### Kommentare und Feedback
+
+... könnt ihr gerne an katja at transform.social schicken.
