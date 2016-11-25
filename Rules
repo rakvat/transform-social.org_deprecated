@@ -39,7 +39,7 @@ preprocess do
 
   def collect_text_items
     @text_items = items.select { |i| i[:type] == "text" }
-    @text_items.sort_by! { |i| i[:date] }
+    @text_items.sort_by! { |i| i[:date] }.reverse!
     @config[:text] = @text_items
   end
 
