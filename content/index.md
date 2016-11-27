@@ -16,7 +16,7 @@ Unter [Texte](texte) und [Bibliothek](bibliothek) findest du mehr Informationen 
 
 Hier ein möglicher Weg durch die Seite:
 
-[10 Gründe, warum das bestehene System nicht funktioniert und wie anarchistsche Gesellschaften dies besser lösen würden](texte/10_gruende) gibt einen Einblick in die Motivation zu dieser Seite und den Wunsch nach einer Transformation. Unter [Anarchie](texte/anarchie) erfährst du, was Anarchie eigentlich bedeutet.
+[10 Gründe, warum das bestehende System nicht funktioniert und wie anarchistische Gesellschaften dies besser lösen würden](texte/10_gruende) gibt einen Einblick in die Motivation zu dieser Seite und den Wunsch nach einer Transformation. Unter [Anarchie](texte/anarchie) erfährst du, was Anarchie eigentlich bedeutet.
 
 Du liest [Glimpses into the Year 2100](bibliothek#50_years_after) oder [Bolo'bolo](bibliothek#bolobolo) um einen Eindruck zu gewinnen, wie anarchistische Gesellschaften in der Praxis organisert sein könnten.
 

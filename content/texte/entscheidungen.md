@@ -17,7 +17,6 @@ catchphrases:
 
 ## Entscheidungen und Vereinbarungen in Anarchistischen Gesellschaften
 
+[Grafik zum Ablauf von Entscheidungsverfahren](/documents/entscheidungen.pdf)
 
-TODO
-
-
+Text
