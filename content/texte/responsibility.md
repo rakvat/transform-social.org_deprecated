@@ -55,7 +55,9 @@ Some people might say that you do not need structure, you need a common vision, 
 Of cause, some arbitrary structure or rules don't solve everything. There need to be rules created through a consensus based process by the group themselves and they need to be embedded in a culture of responsibility, respect and separation. The following paragraphs go into details of these aspects required for anarchist structures.
 
 1) Rules: Collectively deciding on rules might be a difficult process that requires a deep understanding of diverse perspectives and needs.
+
 2) Responsibility, Reliability, Respect, Reflection: Some members of the group might not always act according to their own rules. Handling that requires a mutual understanding to overcome the dynamics of judgments and create a culture of responsibility, support, and learning.
+
 3) Separation: When the efforts to make decisions or to resolve conflicts repeatedly fail and external support does not help, separation can be a fair decision.
 
 #### 1) Rules

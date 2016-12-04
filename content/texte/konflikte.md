@@ -9,14 +9,16 @@ keywords:
   - Anarchie
   - Konflikte
   - Organisation
-summary:
+summary: Der Umgang mit Konflikten in anarchistischen Gesellschaften wird weder durch Willkür noch durch autoritäre Rechtsprechung geprägt sein. Dieser Text sammelt einige Materialien, die bei der Etablierung herrschaftsarmer Konzepte der Konfliktklärung helfen können.
 catchphrases:
-  -
+  - In anarchistischen Gesellschaften würden einige Formen von Konflikten möglicherweise gar nicht mehr oder viel reduzierter vorkommen, da beispielsweise Ungleichverteilung von Ressourcen und Frustration durch Nichtbeteiligung an Entscheidungen eliminiert oder stark gemindert
+  - Da dies stark veränderte Denk- und Handelsweisen sind, ist es wichtig, diese auf dem Weg der Transformation in anarchistische Gesellschaften zu üben und weiter zu entwickeln.
+  - Auch hierbei ist es wichtig, sich präventiv auf die Methode zu einigen und sie zu etablieren.
 ---
 
 ## Umgang mit Konflikten in Anarchistischen Gellschaften
 
-In anarchistischen Gesellschaften würden einige Arten von Konflikten möglicherweise gar nicht mehr oder viel reduzierter vorkommen, da beispielsweise Ungleichverteilung von Ressourcen und Frustration durch Nichtbeteiligung an Entscheidungen eliminiert oder stark gemindert wären. Trotzdem werden immer irgendwelche Konflikte entstehen. Die Prozesse der Konfliktklärung werden sich von binärem Richtig-/Falsch Denken, Gerichten und Gefängnissen zu alltäglichen präventiven Prozessen, einem positiven Menschenbild und hierarchiefreier Gemeinschaftsverantwortung entwickelt haben.
+In anarchistischen Gesellschaften würden einige Formen von Konflikten möglicherweise gar nicht mehr oder viel reduzierter vorkommen, da beispielsweise Ungleichverteilung von Ressourcen und Frustration durch Nichtbeteiligung an Entscheidungen eliminiert oder stark gemindert wären. Trotzdem werden immer irgendwelche Konflikte entstehen. Die Prozesse der Konfliktklärung werden sich von binärem Richtig-/Falsch Denken, Gerichten und Gefängnissen zu alltäglichen präventiven Prozessen, einem positiven Menschenbild und hierarchiefreier Gemeinschaftsverantwortung entwickelt haben.
 
 Da dies stark veränderte Denk- und Handelsweisen sind, ist es wichtig, diese auf dem Weg der Transformation in anarchistische Gesellschaften zu üben und weiter zu entwickeln.
 
@@ -28,7 +30,7 @@ Das Folgende ist eine Sammlung von älteren Texten und Materialien zu den Themen
 
 #### Stufen der Konfliktklärung
 
-[Dies](/documents/konfliktklaerung.pdf) ist ein im Rahmen des Hausprojekts entwickelter Plan zur Konfliktklärung in Stufen. Je nach Ausmaß des Konflikts sind andere Maßnahmen notwendig. Eine Vereinbarung, sich in Konflikten entsprechend eines solchen Konfliktplans zu verhalten, kann im Zweifelsfall Halt und Sicherheit für ein Projekt bieten.
+[Dies](/documents/konfliktklaerung.pdf) ist ein im Rahmen des Hausprojekts entwickelter Plan zur Konfliktklärung in Stufen. Je nach Ausmaß des Konflikts sind andere Maßnahmen notwendig. Eine Vereinbarung, sich in Konflikten entsprechend eines solchen Konfliktplans zu verhalten, kann im Zweifelsfall Halt und Sicherheit für ein Projekt geben.
 
 Der Text [Anarchy and Responsibility](texte/responsibility) beschäftigt sich auch mit der Wichtigkeit von Trennungsprozessen.
 

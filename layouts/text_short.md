@@ -1,4 +1,4 @@
-##### <%= item[:title] %>
+##### <a href="/texte/<%=item[:id]%>" ><%= item[:title] %></a>
 
 von <%= item[:author] %>, <%= item[:date]%>
 
@@ -26,7 +26,7 @@ von <%= item[:author] %>, <%= item[:date]%>
       <%= item[:summary] %>
     </p>
     <p>
-      <img src="/images/<%= item[:id] %>.jpg"/>
+      <a href="/texte/<%=item[:id]%>" ><img src="/images/<%= item[:id] %>.jpg"/></a>
     </p>
   </div>
 
