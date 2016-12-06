@@ -66,12 +66,24 @@ Genauso wie es nicht eine festgelegte Form von anarchistischer Gesellschaft gibt
 <br>
 
 
-## Impressum
+---
+
+### Kommentare und Feedback
+
+... zu diesen Seiten könnt ihr gerne an <img src="/documents/email.png" alt="kontaktemail"> schicken.
+
+---
+
+### Danke, Danke, Danke
+
+an Jessica für das Lektorat und Testen
+
+
+---
+
+### Impressum
 
 Katja Einsfeld,
 Koloniestraße 57,
 13359 Berlin
 
-### Kommentare und Feedback
-
-... könnt ihr gerne an katja at transform.social schicken.
