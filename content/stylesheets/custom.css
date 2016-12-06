@@ -5,3 +5,7 @@ a.anchor:before {
   height: 60px;
   visibility: hidden;
 }
+
+.navbar-default .navbar-nav>li>a.active {
+  color: white;
+}

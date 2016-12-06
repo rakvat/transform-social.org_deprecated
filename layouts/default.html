@@ -30,13 +30,13 @@
         <div class="navbar-collapse collapse" id="navbar-main">
           <ul class="nav navbar-nav">
             <li>
-              <a href="/wasistdas">Was ist das?</a>
-            </li>
-            <li class="dropdown">
-              <a href="/texte">Texte</a>
+              <a href="/wasistdas" <%= @item.path=="/wasistdas/" ? "class='active'" : "" %> >Was ist das?</a>
             </li>
             <li>
-              <a href="/bibliothek">Bibliothek</a>
+              <a href="/texte" <%= @item.path.index("/texte/")==0 ? "class='active'" : "" %> >Texte</a>
+            </li>
+            <li>
+              <a href="/bibliothek" <%= @item.path=="/bibliothek/" ? "class='active'" : "" %> >Bibliothek</a>
             </li>
           </ul>
 
