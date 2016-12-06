@@ -39,7 +39,7 @@ In anarchistischen Gesellschaften würde es Austausch zwischen den Menschen dies
 
 Im kapitalistischen System wird produziert, um Gewinne zu machen, auch wenn gewisse Produkte keinen großen Nutzen für die Menschen haben und Bedürfnisse danach durch Werbung geweckt werden müssen.
 
-In anarchistischen Gesellschaften würden Produkte hergestellt werden, die den Bedürfnissen der Menschen ersprechen. Produkte würden so gebaut werden, dass sie möglichst lange halten und gut repariert werden können. Ganze Arbeitsbereiche wie Werbeindustrie, Banken oder Versicherungen würden wegfallen, da sie durch andere Informations-, Verteilungs- oder Solidaritätsmechanismen ersetzt werden würden. Dadurch und durch das Wegfallen der Bereicherung Einzelner würde jede Person insgesamt weniger arbeiten müssen.
+In anarchistischen Gesellschaften würden Produkte hergestellt werden, die den Bedürfnissen der Menschen ersprechen. Produkte würden so gebaut werden, dass sie möglichst lange halten und gut repariert werden können. Ganze Arbeitsbereiche wie Werbeindustrie, Banken oder Versicherungen würden wegfallen, da sie durch andere Informations-, Verteilungs- oder Solidaritätsmechanismen ersetzt werden würden. Dadurch und durch das Wegfallen der Bereicherung Einzelner würde jede Person insgesamt weniger arbeiten müssen. Gleichzeitig wäre dank der sozialeren Verteilung genug zum guten Leben für alle Menschen da.
 
 #### 5. Ressourcenverteilung innerhalb von Regionen
 
@@ -53,7 +53,7 @@ Im einigen kapitalistischen Nationen können Menschen nicht sicher sein, dass si
 
 In anarchistischen Gesellschaften würden sich alle Gemeinschaften zusammen und solidarisch dafür einsetzen, dass die Grundbedürfnisse aller Menschen befriedigt wären. Der Zugriff auf Ressourcen würde nicht nach Leistung sondern nach gemeinsamen Vereinbarungen und besonderen Bedürfnissen organisiert werden. An sportlichen, künstlerischen oder wissenschaftlichen Wettbewerben können Leute teilnehmen, wenn ihnen das Freude bereitet.
 
-#### 7. Isololation und Depression
+#### 7. Isolation und Depression
 
 Der Wettbewerbsgedanke des Kapitalismus kann zur Konkurrenz zwischen Individuuen und Isolation führen. Die kapitalistische Ideologie sagt, jede Person sei für ihr eigenes Glück selbst verantwortlich. Dies erscheint absurd, wenn mensch gleichzeitig nicht an wesentlichen gesellschaftlichen Entscheidungen beteiligt wird. Dieser Druck zur Selbstverantwortung und soziale Isolation verbunden mit sichtbaren sozialen Schieflagen und den sehr limitierten Möglichkeiten, gesellschaftlich etwas zu verändern, kann zu Niedergeschlagenheit, Verdrängung durch intensiven Medien- oder Drogenkonsum, oder Depressionen führen.
 
@@ -67,7 +67,7 @@ In anarchistischen Gesellschaften würde der solidarische Gedanke an andere Regi
 
 #### 9. Ethik und Wissenschaft
 
-Nicht nur Umwelt, auch ethische Fragen werden im kapitalistischen Wettbewerb oft hinten angestellt. So kann es passieren, dass einzelne Wissenschaflter Experimente starten, die möglicherweise Auswirkungen auf große Teile der Menschheit haben (z.B. in Bereichen Militärtechnik, künstlichen Intelligenz und Gentechnik). Das egoistische Streben nach Ruhm und Gewinn nimmt keine Rücksicht.
+Nicht nur Umwelt, auch ethische Fragen werden im kapitalistischen Wettbewerb oft hinten angestellt. So kann es passieren, dass einzelne Wissenschaflter Experimente starten, die möglicherweise Auswirkungen auf große Teile der Menschheit haben (z.B. in Bereichen Militärtechnik, künstliche Intelligenz und Gentechnik). Das egoistische Streben nach Ruhm und Gewinn nimmt keine Rücksicht.
 
 In anarchistischen Gesellschaften würden Experimente nur dann duchgeführt, wenn sie den vorher gemeinsam vereinbarten ethischen Grundsätzen entsprechen. Im Zweifelsfall würde ein Kommitee für ethische Fragen befragt, welches im Zweifelsfall möglicherweise alle lokalen Basisgruppen befragen würde.
 

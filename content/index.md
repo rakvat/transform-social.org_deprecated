@@ -2,7 +2,7 @@
 title: Willkommen
 ---
 
-## Welche Transformation? Wohin und Warum?
+## Transformation?
 
 *Transform.social* beschäftigt sich mit den Möglichkeiten zur Transformation in sozialere, solidarischere, freiere und herrschaftsärmere - also anarchistische - Gesellschaften.
 

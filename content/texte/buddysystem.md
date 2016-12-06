@@ -6,13 +6,13 @@ type: text
 language: Deutsch
 date: 2013/07
 keywords:
-  - Buddysystem
-  - Organization
-summary: Dieser Text beschreibt eine Organisationsform, die sowohl innerhalb hierarchiearmer Gesellschaften als auch auf dem Weg dorthin hilfreich sein kann. Buddy Systeme durchbrechen Isolation, unterstützen bei emotionalen Fragen und helfen Wissen und Verantwortung zu verteilen.
+  - Buddy-System
+  - Organisation
+summary: Dieser Text beschreibt eine Organisationsform, die sowohl innerhalb hierarchiearmer Gesellschaften als auch auf dem Weg dorthin hilfreich sein kann. Buddy-Systeme durchbrechen Isolation, unterstützen bei emotionalen Fragen und helfen Wissen und Verantwortung zu verteilen.
 catchphrases:
   - Die Welt, in der wir leben, ist an vielen Stellen durch Isolation und Vereinzelung geprägt. Immer kleinere Einheiten, die so mehr eigene Ressourcen brauchen, also weniger teilen können und so mehr konsumieren müssen und die sich in Konkurrenz und Neid voller Misstrauen beäugen.
   - Gemeinsam ist den Buddy-Systemen ein grundlegend positives Menschenbild sowie die Annahme, dass Menschen lernen und sich weiterentwickeln wollen, dass sie an kooperativen Kontakten zu anderen Menschen interessiert sind.
-  - Innerhalb von bestehenden Gruppen bietet das Buddy System die Möglichkeit, neue Leute schnell mit den Strukturen vertraut zu machen und an die jeweiligen Bedürfnisse angepasst zu integrieren.
+  - Innerhalb von bestehenden Gruppen bietet das Buddy-System die Möglichkeit, neue Leute schnell mit den Strukturen vertraut zu machen und an die jeweiligen Bedürfnisse angepasst zu integrieren.
 ---
 
 
@@ -41,7 +41,7 @@ Buddy-Systeme bieten sowohl auf organisatorischer als auch auf psychologischer E
 
 Dieses System des Wissenstransfers hilft bei der Vermeidung von Informationshierarchien, Kompetenz- und Verantwortungshäufungen auf einzelnen Personen. Das ist aus vielen Gründen wünschenswert: Die Verantwortung für das Gesamtprojekt wird von allen gleichmäßig getragen, die Identifikation mit dem Projekt ist entsprechend der Mitgestaltungsmöglichkeiten recht hoch, mit Verantwortung verbundene Ängste und Stress verteilen sich ebenfalls über mehrere Leute. Dies vermindert das Burn-out-Risiko, vermindert die Gefahr, dass das Projekt ins Stocken gerät ist, wenn „wichtige“ Leute nicht da sind, und gibt so allen die Freiheit, guten Gewissens gehen zu können, wenn sie das wollen.
 
-Innerhalb von bestehenden Gruppen bietet das Buddy System die Möglichkeit, neue Leute schnell mit den Strukturen vertraut zu machen und an die jeweiligen Bedürfnisse angepasst zu integrieren. Isolation von einzelnen Menschen innerhalb einer Gruppe kann überwunden werden, wenn am Rand stehende Menschen über Buddies eingebunden und so vielleicht aus einer anderen Perspektive als der, die die Distanz verursacht hat, kennen gelernt werden. Das schnelle und intensive menschliche Kennenlernen ist eine weitere Stärke des Buddy-Systems.
+Innerhalb von bestehenden Gruppen bietet das Buddy-System die Möglichkeit, neue Leute schnell mit den Strukturen vertraut zu machen und an die jeweiligen Bedürfnisse angepasst zu integrieren. Isolation von einzelnen Menschen innerhalb einer Gruppe kann überwunden werden, wenn am Rand stehende Menschen über Buddies eingebunden und so vielleicht aus einer anderen Perspektive als der, die die Distanz verursacht hat, kennen gelernt werden. Das schnelle und intensive menschliche Kennenlernen ist eine weitere Stärke des Buddy-Systems.
 Das beim Kennenlernen gewonnene Vertrauen und der direkte Kontakt, eventuell in Verbindung mit Vereinbarungen über die gewünschte Art der Unterstützung in Belastungssituationen, kann den Buddies ein Gefühl von Sicherheit geben. Eine Vereinbarung könnte sein, in gefährlichen Situationen nicht von der Seite des Buddies zu weichen. Im Fall einer Störung (ein Buddy ist von dem aktuell Erlebten stark getroffen, beispielsweise bei einer Grenzverletzung) kann der\_die andere Buddy helfen, konkret herauszufinden und zu formulieren, wie es der betroffenen Person geht und worin die Störung besteht. Ist der Buddy, der die Grenzverletzung erlebt hat, aktuell nicht in der Lage, ihre\_seine Bedürfnisse zu artikulieren, kann der\_die andere Buddy dabei unterstützen.
 
 Wenn dies gewünscht ist, kann ein Buddy Feedback zum eigenen Handeln geben und so Möglichkeiten zur Weiterentwicklung eröffnen oder den Bedürfnissen nach Wertschätzung und Gesehen werden nachkommen. Für Menschen, die wenig Zeit mit anderen Menschen verbringen, ist dies zudem wichtig, um mehr Sicherheit über das eigene Auftreten zu gewinnen, starke Selbstzweifel zu überwinden und abschätzen zu können, wie wirr oder realitätsfremd die eigenen Gedanken und Ideen wirklich sind. Einige Menschen kennen auch den Effekt, dass Erlebtes oder besonders Gelesenes erst dann als real, tiefer verständlich oder länger abrufbar im Kopf bleibt, wenn mit einem Buddy darüber geredet wurde. Einsamkeit, Hilflosigkeit und Orientierungslosigkeit können sich durch Buddy-Systeme in objektive Beobachtungen und konkrete Veränderungsstrategien verwandeln.
@@ -62,4 +62,4 @@ Wenn sich solche Interessensgruppen wie beispielsweise Projektgruppen (Menschen,
 
 Sind wie bei Ressourcengruppen (Menschen, die sich um die Verteilung von Wasser, Öl oder Elektrizität kümmern) nicht nur lokale, sondern auch regionale, überregionale und globale Absprachen und damit Delegiertenplena nötig, ist beispielsweise folgendes Konzept sinnig: Je ein Buddy-System (zwei Menschen) aus den entsendenden Gruppen nimmt teil – eine Person, die schon beim letzten Mal dabei war und eine weitere, die dann beim nächsten Treffen wieder mit einer anderen Person dabei ist. So kann Verantwortung verteilt und Wissen weiter gegeben werden. Delegierte treffen übrigens keine eigenmächtigen Entscheidungen, sondern nur solche, die im Sinne der entsendenden Gruppe sind.
 
-Eine Gesellschaft in bester Ordnung, mit Achtung und Sicherheit für alle, bedürfnisorientiert und völlig frei von Herrschaftsstrukturen.
+So kann das Buddy-System struktureller Teil anarchistischer Gesellschaften sein: Gesellschaften in bester Ordnung, mit Achtung und Sicherheit für alle, bedürfnisorientiert und völlig frei von Herrschaftsstrukturen.

@@ -15,4 +15,4 @@ catchphrases:
   - Wenn ein ibu weit reisen will, wird es sich zum nächsten Bahnhof der interkontinentalen Eisenbahn, die von einer Kommission des asa'dala betrieben wird, begeben. Ihr Schienennetz sieht so aus.
 ---
 
-Ein anarchistischer Entwurf von Anfang der 80er, der neben einer Beschreibung der katastrophalen Zustände des jetzigen kapitalistischen System und der Notwendigkeit der Verändrung, eine detailreich durchdachte Version einer anarchistischen Gesellschaft beschreibt. Neben menschlichem Miteinander und der Möglichkeit der Co-Existenz von unterschiedlichen Lebensentwürfen, werden sprachliche, städteplanerische und wirtschaftliche Fragen durchdacht.
+Ein anarchistischer Entwurf von Anfang der 80er, der neben einer Beschreibung der katastrophalen Zustände des jetzigen kapitalistischen Systems und der Notwendigkeit der Verändrung, eine detailreich durchdachte Version einer anarchistischen Gesellschaft beschreibt. Neben menschlichem Miteinander und der Möglichkeit der Co-Existenz von unterschiedlichen Lebensentwürfen, werden sprachliche, städteplanerische und wirtschaftliche Fragen durchdacht.

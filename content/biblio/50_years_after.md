@@ -5,11 +5,10 @@ title: Glimpses into the Year 2100 (50 years after the revolution)
 author: Ilan Shalif
 url: http://www.shalif.com/anarchy/glimpses/glimpses.html
 type: biblio
-language: Englisch
+language: English
 keywords:
-  - Anarchistische Gesellschaft
-  - Organisation
-    - Entwurf
+  - Anarchy
+  - Organization
 catchphrases:
   - He immediately met with the interpersonal committee of the grassroots community to decide on what was to be done.
   - Every grassroot community assembly could put a subject on the agenda of its district assembly of delegates. Every district assembly of delegates could put a subject on the agenda of any higher level assembly of delegates.

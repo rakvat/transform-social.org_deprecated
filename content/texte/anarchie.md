@@ -17,7 +17,7 @@ catchphrases:
 
 ### Viele Quellen und Strömungen
 
-Es gibt viele Quellen zu Anarchie und auch viele verschiedene Strömungen und keine festgelegte dogmatische Definition. Wenn du dir unterschiedliche Quellen anschaust, achte darauf, dass Anarchie nicht als Chaos oder Gewalt definiert wird und das in der Definition sowohl solidarische als auch freiheitliche Aspekte vorkommen. Denn es gibt auch einige Strömungen, die sich Anarchisten nennen, bei genauerer Betrachtung aber egoistische oder neoliberale Ziele verfolgen.
+Es gibt viele Quellen zu Anarchie und auch viele verschiedene Strömungen und keine festgelegte dogmatische Definition. Wenn du dir unterschiedliche Quellen anschaust, achte darauf, dass Anarchie nicht als Chaos oder Gewalt definiert wird und das in der Definition sowohl solidarische als auch freiheitliche Aspekte vorkommen. Denn es gibt auch einige Strömungen, die sich Anarchist_innen nennen, bei genauerer Betrachtung aber egoistische oder neoliberale Ziele verfolgen.
 
 
 ### Einige Definitionen
