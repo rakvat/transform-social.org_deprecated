@@ -16,6 +16,7 @@ catchphrases:
   - Wir leben in einer Zeit mit vielen Konflikten, Krisen, Hunger und Armut wegen ungerechter Ressourcen Verteilung und perspektivisch möglicherweise lebensbedrohlicher Klimaveränderung wegen Umweltverschmutzung. Um da raus zu kommen, um ohne Eliten in Solidarität miteinander leben zu können und den drohenden Umweltkollaps zu verhindern braucht es keine elitären spirituellen Parallelwelten sondern Bodenständigkeit, kritisches Denken, gemeinsame wissenschaftliche Forschung, gegenseitige Unterstützung und, in einer Kommunikation die niemanden ausschließt, die Entwicklung von Zielen für die wir leben wollen.
 ---
 
+<a href="/documents/eso_reader.pdf" target="__blank">Hier</a> findest du den Text im <b>Reader</b>-Format. (Ausdrucken auf DIN A4 doppelseitig, an kurzer Seite gespiegelt. Gefaltet DIN A5).
 
 
 ## Vergiss nicht Solidarität und Skeptizismus.

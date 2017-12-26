@@ -4,7 +4,7 @@ title: Umgang mit Konflikten in Anarchistischen Gesellschaften
 author: Katja Einsfeld
 type: text
 language: Deutsch
-date: 2016/11
+date: 2009-2016
 keywords:
   - Anarchie
   - Konflikte
@@ -22,7 +22,7 @@ In anarchistischen Gesellschaften würden einige Formen von Konflikten mögliche
 
 Da dies stark veränderte Denk- und Handelsweisen sind, ist es wichtig, diese auf dem Weg der Transformation in anarchistische Gesellschaften zu üben und weiter zu entwickeln.
 
-Hier eine Graphik dazu aus einer alten Präsentation, die zeigt, wie anarchistische Ansätze Konflikt- und Herrschaftskreisläufe durchbrechen:
+Hier eine Grafik dazu aus einer alten Präsentation, die zeigt, wie anarchistische Ansätze Konflikt- und Herrschaftskreisläufe durchbrechen:
 
 <img src="/images/a_gfk.jpg">
 
@@ -30,7 +30,7 @@ Das Folgende ist eine Sammlung von älteren Texten und Materialien zu den Themen
 
 #### Stufen der Konfliktklärung
 
-<a href="/documents/konfliktklaerung.pdf" target="__blank">Dies</a> ist ein im Rahmen des Hausprojekts entwickelter Plan zur Konfliktklärung in Stufen. Je nach Ausmaß des Konflikts sind andere Maßnahmen notwendig. Eine Vereinbarung, sich in Konflikten entsprechend eines solchen Konfliktplans zu verhalten, kann im Zweifelsfall Halt und Sicherheit für ein Projekt geben.
+<a href="/documents/konfliktklaerung.pdf" target="__blank">Dies</a> ist ein eines Rahmen des Hausprojekts entwickelter Plan zur Konfliktklärung in Stufen. Je nach Ausmaß des Konflikts sind andere Maßnahmen notwendig. Eine Vereinbarung, sich in Konflikten entsprechend eines solchen Konfliktplans zu verhalten, kann im Zweifelsfall Halt und Sicherheit für ein Projekt geben.
 
 Der Text [Anarchy and Responsibility](/texte/responsibility) beschäftigt sich auch mit der Wichtigkeit von Trennungsprozessen.
 
@@ -62,7 +62,7 @@ Der Artikel in der Graswurzelrevolution, der sich auch kritisch mit GfK auseinan
 
 Einige Ausgaben später, schrieb Johann Bauer über weitere Kritikpunkte aus anarchistischer Sicht: <a href="http://www.graswurzel.net/345/gfk.shtml" target="__blank">Von der Konfrontation zurück zum Bitten?</a>
 
-Mittlerweile habe ich erlebt, wie GfK Deutungen aus spirituellen oder inividualanarchistischen Kreisen aussehen. Manchmal werden Wünsche mit intensiver Dramatik als Bedürfnis insziniert. Für noch problematischer halte ich die Auslegung nach der das Individum dogmatische Verantwortung dafür trägt, mit beschissenem Verhalten des Gegenübers umzugehen. Das kingt nach neoliberaler Selbstverantwortung und Isolation. Mehr dazu findest du in diesem [Text](/texte/eso).
+Mittlerweile habe ich erlebt, wie GfK Deutungen aus spirituellen oder individualanarchistischen Kreisen aussehen. Manchmal werden Wünsche mit intensiver Dramatik als Bedürfnis inszeniert. Für noch problematischer halte ich die Auslegung nach der jedes Individuum dogmatische Verantwortung dafür trägt, mit verletzendem Verhalten des Gegenübers umzugehen. Das kingt nach neoliberaler Selbstverantwortung und Isolation. Mehr dazu findest du in diesem [Text](/texte/eso).
 
 
 #### Restorative Circles
@@ -71,7 +71,7 @@ Restorative Circles (RC) oder Kreisgespräche sind eine einfache Technik, die au
 
 Dieses <a href="/documents/rc-handout.pdf" target="__blank">Handout zu Restorative Circles</a> aus anderer Quelle fasst den Prozess zusammen.
 
-<a href="/documents/kreis_gespraeche_2.svg" target="__blank">Hier</a> findest du eine von mir erstellte Präsentationvon von 2014 zu dem Thema, durch die du mit den Pfeiltasten navigieren kannst.
+<a href="/documents/kreis_gespraeche_2.svg" target="__blank">Hier</a> findest du eine von mir erstellte Präsentation von von 2014 zu dem Thema, durch die du mit den Pfeiltasten navigieren kannst.
 
 In diesem Video spricht der Begründer der Technik über deren Entstehung und Praxis.
 

@@ -28,7 +28,7 @@ Ein Anarchist glaubt an eine freie Gesellschaft gleichberechtigter Menschen ohne
 
 ---
 
-Anarchie ist Ordnung ohne Herrschaft. Das bedeutet, dass Menschen nicht das tun, was der Staat oder Chef ihnen sagt, sondern nach ihren Bedürfnissen handeln. Diese Freiheit ist nur möglich, wenn die Menschen sich solidarisch ihren Mitmenschen gegenüber verhalten und auch deren Freiheit respektieren. Wenn Ressourcen wie Wohnraum oder Nahrung beschränkt sind oder notwendige Aufgaben verteilt werden müssen, treffen die Menschen, die davon betroffen sind, eine gemeinsame Entscheidung und handeln dann gemäß dieser gemeimen Vereinbarung.
+Anarchie ist Ordnung ohne Herrschaft. Das bedeutet, dass Menschen nicht das tun, was der Staat oder Chef ihnen sagt, sondern nach ihren Bedürfnissen handeln. Diese Freiheit ist nur möglich, wenn die Menschen sich solidarisch ihren Mitmenschen gegenüber verhalten und auch deren Freiheit respektieren. Wenn Ressourcen wie Wohnraum oder Nahrung beschränkt sind oder notwendige Aufgaben verteilt werden müssen, treffen die Menschen, die davon betroffen sind, eine gemeinsame Entscheidung und handeln dann gemäß dieser gemeinsamen Vereinbarung.
 
 (aus [Was ist das?](/wasistdas))
 

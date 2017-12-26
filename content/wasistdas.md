@@ -12,12 +12,12 @@ Michail Bakunin
 
 Anarchie ist Ordnung ohne Herrschaft. Das bedeutet, dass Menschen nicht das tun, was der Staat oder Chef ihnen sagt, sondern nach ihren Bedürfnissen handeln.
 Diese Freiheit ist nur möglich, wenn die Menschen sich solidarisch ihren Mitmenschen gegenüber verhalten und auch deren Freiheit respektieren.
-Wenn Ressourcen wie Wohnraum oder Nahrung beschränkt sind oder notwendige Aufgaben verteilt werden müssen, treffen die Menschen, die davon betroffen sind, eine gemeinsame Entscheidung und handeln dann gemäß dieser gemeimen Vereinbarung.
+Wenn Ressourcen wie Wohnraum oder Nahrung beschränkt sind oder notwendige Aufgaben verteilt werden müssen, treffen die Menschen, die davon betroffen sind, eine gemeinsame Entscheidung und handeln dann gemäß dieser gemeinsamen Vereinbarung.
 
 ### Wie wäre eine anarchistische Gesellschaft organisiert?
 
 Es gibt keinen festgelegten Plan zur Organisation anarchistischer Gesellschaften. Wichtig ist, dass Solidarität und Freiheit aller Menschen im Gleichgewicht bleiben.
-Vielleicht werden viele verschiedene Fromen anarchistischer Gesellschaften nebeneinander existieren.
+Vielleicht werden viele verschiedene Formen anarchistischer Gesellschaften nebeneinander existieren.
 Alles was auf diesen Seiten steht, sind Übelegungen, die die Gedanken anregen können - nichts Festgelegtes.
 Anarchistische Gesellschaften sind von unten nach oben organisiert. Das bedeutet, dass viele Fragen auf lokaler Ebene entschieden werden können - in den Häusern oder Wohnblöcken, in denen die Menschen leben. Entscheidungen werden (je nach Variante immer, oft oder nach Möglichkeit) im Konsens gefällt.
 Fragen, die größere geographische Bereiche betreffen, wie beispielsweise Stromnetz, der Betrieb von Krankenhäusern oder Fabriken oder die gerechte Verteilung von Ressourcen zwischen Regionen mit unterschiedlich guten Vorraussetzungen zur Landwirtschaft, werden von den Menschen entschieden, die von der Entscheidung betroffen sind. Dazu treffen sich Leute, die aus ihrer Region dazu entsandt wurden und einen klaren Auftrag haben. Wenn sie sich nicht an ihren Auftrag halten, werden sie ausgetauscht.
