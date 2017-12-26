@@ -3,7 +3,7 @@ title: Was ist das?
 ---
 ## Was ist das?
 
-*Transform.social* beschäftigt sich mit den Möglichkeiten zur Transformation in sozialere, solidarischere, freiere und herrschaftsärmere - also anarchistische - Gesellschaften.
+*transform-social* beschäftigt sich mit den Möglichkeiten zur Transformation in sozialere, solidarischere, freiere und herrschaftsärmere - also anarchistische - Gesellschaften.
 
 *"Wir sind überzeugt, dass Freiheit ohne Sozialismus Privilegienwirtschaft und Ungerechtigkeit, und Sozialismus ohne Freiheit Sklaverei und Brutalität bedeutet."*
 Michail Bakunin

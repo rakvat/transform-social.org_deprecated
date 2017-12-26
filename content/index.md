@@ -4,7 +4,7 @@ title: Willkommen
 
 ## Transformation?
 
-*Transform.social* beschäftigt sich mit den Möglichkeiten zur Transformation in sozialere, solidarischere, freiere und herrschaftsärmere - also anarchistische - Gesellschaften.
+*transform-social* beschäftigt sich mit den Möglichkeiten zur Transformation in sozialere, solidarischere, freiere und herrschaftsärmere - also anarchistische - Gesellschaften.
 
 ---
 

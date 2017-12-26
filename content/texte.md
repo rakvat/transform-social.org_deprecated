@@ -4,7 +4,7 @@ title: Texte
 
 ## Texte
 
-Auf dieser Seite findest du Texte von transform.social.
+Auf dieser Seite findest du Texte von transform-social.
 
 ----
 
