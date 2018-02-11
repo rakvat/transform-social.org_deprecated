@@ -26,7 +26,9 @@ von <%= item[:author] %>, <%= item[:date]%>
       <%= item[:summary] %>
     </p>
     <p>
-      <a href="/texte/<%=item[:id]%>" ><img src="/images/<%= item[:id] %>.jpg"/></a>
+      <a href="/texte/<%=item[:id]%>" >
+        <img src="/images/<%= item[:id] %>.jpg" alt="<%=item[:keywords].join(' ')%>"/>
+      </a>
     </p>
   </div>
 

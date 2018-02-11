@@ -2,6 +2,8 @@
 title: Willkommen
 ---
 
+<img src="/images/logo.png" alt="lachendes Gesicht">
+
 ## Transformation?
 
 *transform-social* beschäftigt sich mit den Möglichkeiten zur Transformation in sozialere, solidarischere, freiere und herrschaftsärmere - also anarchistische - Gesellschaften.

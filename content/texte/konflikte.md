@@ -24,7 +24,7 @@ Da dies stark veränderte Denk- und Handelsweisen sind, ist es wichtig, diese au
 
 Hier eine Grafik dazu aus einer alten Präsentation, die zeigt, wie anarchistische Ansätze Konflikt- und Herrschaftskreisläufe durchbrechen:
 
-<img src="/images/a_gfk.jpg">
+<img src="/images/a_gfk.jpg" alt="Gewaltfreie Kommunikation und Anarchie">
 
 Das Folgende ist eine Sammlung von älteren Texten und Materialien zu den Themen Konfliktprävention und Konfliktbearbeitung.
 
@@ -44,7 +44,7 @@ Ein Bild und ein Zitat daraus:
 
 ---
 
-<img src="/images/bittecheck.png">
+<img src="/images/bittecheck.png" alt="Wann Bitten erfüllen">
 
 <cite>
 Laut Rosenberg kommen 90% der Trauer, die wir täglich empfinden, aus
