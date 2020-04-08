@@ -26,7 +26,8 @@ Dann fragst du dich, wie mensch in anarchistischen Gesellschaften zu [Entscheidu
 
 Wenn du mehr über praktische Herausforderungen in anarchistischen Projekten und mögliche Umgangsweisen erfahren willst, könnten dich die Texte [Vergiss nicht Solidarität und Skeptizismus](texte/eso) und [Anarchy and Responsibility](texte/responsibility) interessieren.
 
+
+Weitere Links zu interessanten Seiten findest du [hier](links).
+
 ----
-
-
 
