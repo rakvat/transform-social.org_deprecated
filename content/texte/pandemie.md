@@ -31,11 +31,10 @@ umzugehen?
 
 **A:** Doch könnte es geben. Wenn Gesellschaft mehr
 wäre als Regierung wählen und für Lohn schuften.
-aus?
 
 <img src="/images/pandemie.jpg" alt="Redende Menschen">
 
-**Icke:** Was denn? Denkst du dir wieder ’ne Fantansy
+**Icke:** Was denn? Denkst du dir wieder ’ne Fantasy aus?
 
 **A:** Nee, eher Science-Fiction, aber voll machbar. Also schau: Es gibt genug Essen und
 so, dass alle Menschen satt werden können. Ganz ohne Geld. Und wenn alle erst mal
