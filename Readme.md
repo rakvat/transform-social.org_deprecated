@@ -1,4 +1,8 @@
-# Source of Web Page http://transform-social.org
+# Deprecated
+
+switched to https://github.com/rakvat/transform-social.org now
+
+## Source of Web Page http://transform-social.org
 
 
 This site is build with http://nanoc.ws/
